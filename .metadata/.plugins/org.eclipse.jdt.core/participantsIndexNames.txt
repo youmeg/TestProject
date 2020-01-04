@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\Administartor\pleiades-2019-09-java-win-64bit-jre_20191007\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3837617596.index
+\example\src
+C:\Users\Administartor\pleiades-2019-09-java-win-64bit-jre_20191007\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2269707338.index
+\testttest\src
+C:\Users\Administartor\pleiades-2019-09-java-win-64bit-jre_20191007\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1585214596.index
+\example\src
+C:\Users\Administartor\pleiades-2019-09-java-win-64bit-jre_20191007\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\59941317.index
+\example\src
